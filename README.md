@@ -1,6 +1,6 @@
 # alpha
 
-simple change
+simple change committed
 
 // TODO: #1 dev issue
 
